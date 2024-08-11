@@ -1,1 +1,1 @@
-# python-notes
+# python-notes by Mohit Soni (mohitsoniv)
